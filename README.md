@@ -1,5 +1,9 @@
 # Rocinante Explorer
 
+![Rocinante Explorer prototype preview with simulated ship systems](assets/overview-2026-10-24.png)
+
+*Prototype preview; ship systems are simulated.*
+
 A command-deck interface can make space information more inviting to explore than a collection of unrelated numbers. Rocinante Explorer is a browser prototype that combines a fictional spacecraft dashboard with satellite, launch, crew and space-weather context when the connected feeds are available. It is an interactive visual experience, with a clear distinction between external observations and simulated ship systems.
 
 ## Tech stack
